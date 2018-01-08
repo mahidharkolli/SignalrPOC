@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "SignalrPOC", "SignalrPOC\SignalrPOC.ccproj", "{B50619FB-D763-41EF-A3FC-6F949D4253CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebRole1", "WebRole1\WebRole1.csproj", "{6B855B8E-0213-4618-B84A-EC9E68F9E82D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingalrPOC_App", "SingalrPOC_App\SingalrPOC_App.csproj", "{8E73F12B-5BD6-47FB-AB30-E4F702F11768}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentinelAutoTest", "SentinelAutoTest\SentinelAutoTest.csproj", "{6A58EDBD-C84A-40DA-94AA-2A9352AB086F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B50619FB-D763-41EF-A3FC-6F949D4253CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50619FB-D763-41EF-A3FC-6F949D4253CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50619FB-D763-41EF-A3FC-6F949D4253CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50619FB-D763-41EF-A3FC-6F949D4253CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B855B8E-0213-4618-B84A-EC9E68F9E82D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B855B8E-0213-4618-B84A-EC9E68F9E82D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B855B8E-0213-4618-B84A-EC9E68F9E82D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B855B8E-0213-4618-B84A-EC9E68F9E82D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E73F12B-5BD6-47FB-AB30-E4F702F11768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E73F12B-5BD6-47FB-AB30-E4F702F11768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E73F12B-5BD6-47FB-AB30-E4F702F11768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E73F12B-5BD6-47FB-AB30-E4F702F11768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A58EDBD-C84A-40DA-94AA-2A9352AB086F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A58EDBD-C84A-40DA-94AA-2A9352AB086F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A58EDBD-C84A-40DA-94AA-2A9352AB086F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A58EDBD-C84A-40DA-94AA-2A9352AB086F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
